@@ -6,22 +6,45 @@ bool es_digit(int n);
 
 int main(void){
 
-	assert(es_digit(4) == true);
-	printf("Ha passat es_digit(4) == true\n");
+//	assert(es_digit(4) == true);
+//	printf("Ha passat es_digit(4) == true\n");
+//
+//	assert(es_digit(234) == false);
+//	printf("Ha passat es_digit(234) == false\n");
+//
+//	assert(es_digit(0) == true);
+//	printf("Ha passat es_digit(0) == true\n");
+//
+//	assert(es_digit(9) == true);
+//	printf("Ha passat es_digit(9) == true\n");
+//
+//	assert(es_digit(-4) == false);
+//	printf("Ha passat es_digit(-4) == false\n");
+	
+	int digit;
+	
+	printf ("Introdueix un dígit: "); 
+	
+	if (scanf("%d", &digit) == 1){
+		
+		if (es_digit(digit) == true){
+			
+			printf ("És un dígit\n");
+		}
 
-	assert(es_digit(234) == false);
-	printf("Ha passat es_digit(234) == false\n");
+		else {
 
-	assert(es_digit(0) == true);
-	printf("Ha passat es_digit(0) == true\n");
+			printf ("No és un dígit\n");
+		}
+	}
 
-	assert(es_digit(9) == true);
-	printf("Ha passat es_digit(9) == true\n");
+	else {
+		printf("Error: l’entrada no es un nombre enter vàlid\n");
 
-	assert(es_digit(-4) == false);
-	printf("Ha passat es_digit(-4) == false\n");
+	}
+	
+       	return 0;
 
-	return 0;
 }
 
 
