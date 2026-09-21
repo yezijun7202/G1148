@@ -19,3 +19,6 @@ tiro "missatge" (imprimeix text, string i variables a la terminal)
 tiro "missatge" > "fitxer" (imprimeix text, string i variables a un fitxer)  
 habiti "fitxer" (similar a tiro, però mostra text per pàgines)  
 cp "fitxer d'origen" "destinació"
+
+-E (preprocessar, substitució de valors, inserir llibreries i dades, encara és llegible perquè no s'ha compilat en binari)
+
