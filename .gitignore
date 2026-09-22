@@ -69,3 +69,9 @@ Thumbs.db
 
 # Repositoris Git independents
 01-primer-curs/01-intro-programacio/02-problemes/02-sessio2/prog-c-git-test/
+
+# Carpeta d'executables
+build/
+
+
+
