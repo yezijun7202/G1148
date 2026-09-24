@@ -12,7 +12,8 @@ Problemes: "Dimecres 08:00–10:00, PROB-B00, Aula B2"
 
 ### Teoria
 
-- [[01-apunts_teoria.pdf|Apunts teoria]]
+- [[main/01-primer-curs/03-calcul/01-teoria/01-preliminars.pdf|Preliminars]]
 
+### Problemes
 
-
+- [[main/01-primer-curs/03-calcul/02-problemes/01-llistat-tema1.pdf|Llistat de problemes — Tema 1]]

@@ -8,7 +8,8 @@ Problemes: "Dimecres 12:00–14:00, PROB-B00, Aula B2"
 
 ### Introducció
 
-- [[main/01-primer-curs/04-mates-discreta/pla-docent|Pla docent]] 
+- [[main/01-primer-curs/04-mates-discreta/pla-docent|Pla docent]]
+
 ### Teoria
 
-- [[01-conjunts.pdf|Apunts de conjunts]]
+- [[main/01-primer-curs/04-mates-discreta/01-teoria/01-conjunts.pdf|Apunts de conjunts]]

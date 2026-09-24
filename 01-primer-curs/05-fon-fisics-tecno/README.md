@@ -9,5 +9,4 @@ Laboratori: "Divendres 08:00–11:00, PLAB-b00, Aula IF"
 
 ### Introducció
 
-[[main/01-primer-curs/05-fon-fisics-tecno/pla-docent|Pla docent]]
-
+- [[main/01-primer-curs/05-fon-fisics-tecno/pla-docent|Pla docent]]
