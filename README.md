@@ -4,7 +4,7 @@ UB Computer Science / Informatics Engineering Markdown Repository (Obsidian).
 ## Info. general
 
 - [[grup-practiques.pdf|Grup de pràctiques]]
-- [[horari|Horari]]
+- [[01-horari|Horari]]
 ## Semestre 1
 
 - [[main/01-primer-curs/01-intro-programacio/README|Introducció a la programació]]

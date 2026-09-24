@@ -1,4 +1,10 @@
-# Matemàtiques discreta
+---
+assignatura: Matemàtica Discreta
+Teoria: "Dimarts 09:30–11:00, TEORIA-M1, Aula B5"
+Problemes: "Dimecres 12:00–14:00, PROB-B00, Aula B2"
+---
+
+# Matemàtica Discreta
 
 ### Introducció
 

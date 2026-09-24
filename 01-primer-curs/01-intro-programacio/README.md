@@ -1,3 +1,10 @@
+---
+assignatura: Introducció a la programació
+Teoria: "Dilluns 08:00–09:30, TEORIA-M2, Aula B2"
+Problemes: "Dimarts 11:00–12:30, PROB-AB0, Aula B2"
+Laboratori: "Dijous 11:30–13:00, PLAB-c00, Aula IB"
+---
+
 # Introducció a la programació
 
 ### Introducció

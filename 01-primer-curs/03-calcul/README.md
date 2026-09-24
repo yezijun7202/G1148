@@ -1,3 +1,9 @@
+---
+assignatura: Càlcul
+Teoria: "Dimarts 08:00–09:30, TEORIA-M1, Aula B5"
+Problemes: "Dimecres 08:00–10:00, PROB-B00, Aula B2"
+---
+
 # Càlcul
 
 ### Introducció
